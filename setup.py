@@ -33,7 +33,7 @@ setup(
     name=SRC_REPO,
     version="0.0.3",
     author=AUTHOR_USER_NAME,
-    description="A small package for DVC",
+    description="A small package for stream data between kafka and mongodb",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
